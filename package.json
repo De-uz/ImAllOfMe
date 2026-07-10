@@ -1,0 +1,12 @@
+{
+  "name": "im_all_of_me",
+  "version": "1.0.0",
+  "description": "Personal page to put in practice the contents of web",
+  "license": "ISC",
+  "author": "Sebastián Besoaín Muñoz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
